@@ -16,9 +16,9 @@
 - [🎮 ゲーム開発者のための C++11/C++14](https://www.slideshare.net/Reputeless/c11c14) | 全ゲ連 (2013)
 
 #### Coding Lesson
-- 💻 私に [プログラミング講座・プライベートレッスンを依頼する](https://ryo-suzuki-contact.github.io/#_10)
+- 💻 私に[プログラミング講座・プライベートレッスンを依頼する](https://ryo-suzuki-contact.github.io/#_10)
 - 🏢 プロフェッショナル C++ から子ども向けまで、オンライン可、最小 1.5 時間
-- 🏫 早稲田情報科学ジュニア・アカデミー（早稲田大学）、駒澤大学、[U-17 未踏ジュニア](https://jr.mitou.org/)でも指導
+- 🏫 早稲田情報科学ジュニア・アカデミー（早稲田大学）、駒澤大学、[U-17 未踏ジュニア](https://jr.mitou.org/)でも指導中
 
 <!--
 **Reputeless/Reputeless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
