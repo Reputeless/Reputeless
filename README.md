@@ -1,6 +1,4 @@
-> 小さくなってもコードはモダン！  
-> 未定義動作なしの名コーダー！  
-> 実装はいつも 3 つ！！ (GCC/Clang/MSVC) 🕵️   
+> 小さくなってもコードはモダン！　未定義動作なしの名コーダー！　実装はいつも 3 つ！！ (GCC/Clang/MSVC) 🕵️   
 
 #### Projects
 - [🦖 OpenSiv3D](https://github.com/Siv3D/OpenSiv3D): C++17/C++20 framework for creative coding
