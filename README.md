@@ -1,10 +1,7 @@
-
+> 小さくなってもコードはモダン！  
+> 未定義動作なしの名コーダー！  
+> 実装はいつも 3 つ！！ (GCC/Clang/MSVC) 🕵️   
 <p align="center">
-<blockquote>
-小さくなってもコードはモダン！<br>
-未定義動作なしの名コーダー！<br>
-実装はいつも 3 つ！！ (GCC/Clang/MSVC) 🕵️   
-</blockquote>
 <img src="https://raw.githubusercontent.com/Reputeless/Reputeless/master/r1.gif">
 </p>
 
