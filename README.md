@@ -13,7 +13,6 @@
 - 🎮 [ゲーム開発者のための C++11/C++14](https://www.slideshare.net/Reputeless/c11c14) | 全ゲ連 (2013)
 
 #### Contact
-- 🔷 Twitter: [@Reputeless](https://twitter.com/Reputeless)
 - 💻 私に [プログラミング講座・プライベートレッスンを依頼する](https://ryo-suzuki-contact.github.io/)
   - プロフェッショナル C++ ～ 子ども向けまで。オンライン可、最小 1.5 時間
   - 早稲田情報科学ジュニア・アカデミー (早稲田大学), 駒澤大学, U-17 未踏ジュニアで指導
