@@ -1,5 +1,5 @@
 #### Projects
-- [🦖 OpenSiv3D](https://github.com/Siv3D/OpenSiv3D): C++17/C++20 framework for creative coding
+- [🦖 OpenSiv3D](https://github.com/Siv3D/OpenSiv3D): C++20 framework for creative coding
 - [🗺️ C++ の歩き方 - cppmap](https://cppmap.github.io/): C++20/23/26 articles and resources written in Japanese
 - [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
 
