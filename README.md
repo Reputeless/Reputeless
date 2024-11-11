@@ -1,9 +1,10 @@
 #### Projects
-- [🦖 OpenSiv3D](https://github.com/Siv3D/OpenSiv3D): C++20 framework for creative coding
+- [🦖 Siv3D](https://github.com/Siv3D/OpenSiv3D): C++20 framework for creative coding
 - [🗺️ C++ の歩き方 - cppmap](https://cppmap.github.io/): C++20/23/26 articles and resources written in Japanese
 - [😛 Siv3D for Kids](https://siv3d-for-kids.github.io/): A programming tool to get kids excited about programming
 
 #### Books and Presentations
+- [🛸 ゲーム開発者のための C++17～C++23, 近年の C++ 規格策定の動向](https://www.docswell.com/s/cpp/5XEY92-cedec2024) | CEDEC 2024
 - [⏱️ 競プロのための標準 C++](https://zenn.dev/reputeless/books/standard-cpp-for-competitive-programming) | Zenn
 - [🛸 ゲーム開発者のための C++11～C++20, 将来の C++ の展望](https://speakerdeck.com/cpp/cedec2020) | CEDEC 2020
 - [📗 冒険で学ぶ はじめてのプログラミング](https://www.amazon.co.jp/%E5%86%92%E9%99%BA%E3%81%A7%E5%AD%A6%E3%81%B6-%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%88%B4%E6%9C%A8-%E9%81%BC/dp/4774199184/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=cppmap-22&linkId=890aadae757be93b36c414cdad766f05) | 技術評論社 (2018)
